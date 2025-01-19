@@ -1,4 +1,4 @@
-# dusan
+# Macko Duško (Dušan)
 Reworked Dobby2
 
 
