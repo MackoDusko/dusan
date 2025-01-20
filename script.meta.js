@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Macko Duško
 // @namespace    https://macko.industries.sk/dusan
-// @version      3.62.1
+// @version      3.63.0
 // @description  Reworked Dobby2. [.net .sk .cz .pl]
 // @author       xxxxx and Macko
 // @license      CC BY-NC-ND 4.0; https://creativecommons.org/licenses/by-nc-nd/4.0/
@@ -12,8 +12,8 @@
 // @exclude      https://*.events.the-west.*
 // @exclude      https://*forum.beta.the-west.*
 // @icon         https://westsk.innogamescdn.com/images/items/animal/item_51460.png?7
-// @downloadURL  https://mackodusko.github.io/dusan/code.user.js
-// @updateURL    https://mackodusko.github.io/dusan/code.meta.js
+// @downloadURL  https://mackodusko.github.io/dusan/script.user.js
+// @updateURL    https://mackodusko.github.io/dusan/script.meta.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
