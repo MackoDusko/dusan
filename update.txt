@@ -1,6 +1,4 @@
 version 3.63.0
-Fixed an issue with script loading
-Improved performance of background tasks
 
 version: 3.62.5
 Added new feature to the settings panel
