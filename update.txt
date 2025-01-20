@@ -1,2 +1,3 @@
 version 3.63.0
 Added update manager
+Fixed auto-start triggered when not supposed to
