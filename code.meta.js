@@ -12,8 +12,8 @@
 // @exclude      https://*.events.the-west.*
 // @exclude      https://*forum.beta.the-west.*
 // @icon         https://westsk.innogamescdn.com/images/items/animal/item_51460.png?7
-// @downloadURL  https://github.com/MackoDusko/dusan/raw/main/macko.user.js
-// @updateURL    https://github.com/MackoDusko/dusan/raw/main/macko.meta.js
+// @downloadURL  https://mackodusko.github.io/dusan/code.user.js
+// @updateURL    https://mackodusko.github.io/dusan/code.meta.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
