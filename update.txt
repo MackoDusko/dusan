@@ -1,3 +1,7 @@
+version 3.63.1
+Some bug fixes
+Improved regeneration energy check
+
 version 3.63.0
 Added update manager
 Fixed auto-start triggered when not supposed to
