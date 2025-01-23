@@ -8,7 +8,6 @@ Works with Tampermonkey / Violentmonkey
   <button>Install Userscript</button>
 </a>
 
-<br>
 
 ## Ensuring Script Performance in the Background
 
