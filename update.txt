@@ -1,3 +1,9 @@
+version 3.63.3
+Added: checkbox to allow consumables that also add motivation when continuously refilling energy
+
+version 3.63.2
+Improved: regenerating low health will not wait for full energy anymore
+
 version 3.63.1
 Some bug fixes
 Improved regeneration energy check
