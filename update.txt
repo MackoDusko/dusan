@@ -1,3 +1,8 @@
+version 3.63.4
+Valentine wheel of fortune animation skip
+Auto send event currency to friends on login
+Leave chat rooms on login (verify that Salon 1 is offline)
+
 version 3.63.3
 Added: checkbox to allow consumables that also add motivation when continuously refilling energy
 
