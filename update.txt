@@ -1,3 +1,12 @@
+version 3.63.5
+Sort jobs by $ money is now also possible
+Added trader option to make buying multiple items easier
+Added delay option when opening usable items
+Export settings will now also include saved sets in TWCalc wardrobe
+Fixed unreliable refill HP before battle when using wardrobe set
+Allowed to use consumables with premium bonus
+Scheduled stop can also send player to sleep
+
 version 3.63.4
 Valentine wheel of fortune animation skip
 Auto send event currency to friends on login
