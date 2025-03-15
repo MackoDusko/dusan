@@ -1,3 +1,8 @@
+version 3.64.0
+Fixed rare case when silver jobs are not changed
+Improved Sets GUI
+<< Sets are not saved by name >> No more suprises! ;-)
+
 version 3.63.7
 Added handy preset for best XP jobs in (empty) Worker
 
