@@ -1,3 +1,8 @@
+version 3.64.1
+Fixed no HP refill when using battle set saved in TWCalc wardrobe
+Fixed set warning when Automation premium ends
+Added warning in case login reward is not collected
+
 version 3.64.0
 Fixed rare case when silver jobs are not changed
 Improved Sets GUI
