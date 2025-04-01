@@ -1,3 +1,9 @@
+version 3.64.2
+Added Worker profiles
+Duel protection check will now also consider player bounty when player is not in town
+Battles are now saved by ID
+Fixed unreliable fort battle end signal when using bad VPN (will additionally listen for chat remove)
+
 version 3.64.1
 Fixed no HP refill when using battle set saved in TWCalc wardrobe
 Fixed set warning when Automation premium ends
