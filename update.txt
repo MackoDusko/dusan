@@ -1,3 +1,8 @@
+version 3.64.3
+Fixed checkbox worker profile 1 / profile 2 not saving
+Fixed broken import settings functionality
+Regeneration in fort will now prefer closest fort
+
 version 3.64.2
 Added Worker profiles
 Duel protection check will now also consider player bounty when player is not in town
