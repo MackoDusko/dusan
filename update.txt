@@ -1,3 +1,6 @@
+version 3.64.5
+Fixed another bug in import settings functionality (last one :D)
+
 version 3.64.3
 Fixed checkbox worker profile 1 / profile 2 not saving
 Fixed broken import settings functionality
