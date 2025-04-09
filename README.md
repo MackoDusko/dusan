@@ -39,25 +39,25 @@ Userscript BOT The-West, Reworked Dobby2
 - Alert system and Nofitification system when something important happen
 
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_1.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_1.png" style="max-width: 600px;">
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_2.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_2.png" style="max-width: 600px;">
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_3.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_3.png" style="max-width: 600px;">
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_4.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_4.png" style="max-width: 600px;">
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_5.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_5.png" style="max-width: 600px;">
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_6.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_6.png" style="max-width: 600px;">
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_7.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_7.png" style="max-width: 600px;">
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_8.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_8.png" style="max-width: 600px;">
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_9.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_9.png" style="max-width: 600px;">
 
-<img src="https://github.com/MackoDusko/dusan/docs/screenshots/Screenshot_10.png" style="max-width: 600px;">
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_10.png" style="max-width: 600px;">
 
 
 ## Ensuring Script Performance in the Background
