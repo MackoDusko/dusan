@@ -59,6 +59,8 @@ Userscript BOT The-West, Reworked Dobby2
 
 <img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_10.png" style="max-width: 600px;">
 
+<img src="https://mackodusko.github.io/dusan/docs/screenshots/Screenshot_11.png" style="max-width: 600px;">
+
 
 ## Ensuring Script Performance in the Background
 
