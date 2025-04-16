@@ -1,5 +1,5 @@
-# Macko Duško
-Userscript BOT The-West, Reworked Dobby2
+# BOT The West (Reworked Dobby2)
+Macko Duško - Userscript BOT for The-West
 
 > ## Install Script
 > Works with Tampermonkey / Violentmonkey
