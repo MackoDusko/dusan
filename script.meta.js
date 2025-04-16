@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Macko Duško
 // @namespace    https://macko.industries.sk/dusan
-// @version      3.65.0
+// @version      3.65.1
 // @description  Reworked Dobby2.
 // @author       xxxxx and Macko
 // @license      CC BY-NC-ND 4.0; https://creativecommons.org/licenses/by-nc-nd/4.0/
