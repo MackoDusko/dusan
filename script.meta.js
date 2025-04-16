@@ -2,7 +2,7 @@
 // @name         Macko Duško
 // @namespace    https://macko.industries.sk/dusan
 // @version      3.65.0
-// @description  Reworked Dobby2. [.net .sk .cz .pl]
+// @description  Reworked Dobby2.
 // @author       xxxxx and Macko
 // @license      CC BY-NC-ND 4.0; https://creativecommons.org/licenses/by-nc-nd/4.0/
 // @include      https://www.the-west.*
