@@ -1,5 +1,8 @@
-version 3.65.4
-Fixed bug with saving settings
+version 3.64.5
+Updated stats for new fort medicine consumable
+Automatically use selected battle consumables before battle
+Fixed minor bug with equipping health set before consumable use
+Fixed bug with auto-refresh after battle end
 
 version 3.65.3
 Hotfix alert bug
